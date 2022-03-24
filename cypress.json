@@ -1,8 +1,8 @@
 {
   "baseUrl": "http://localhost:3000",
   "env": {
-    "email": "test@email.com",
-    "password": "test123"
+    "email": "user@test.com",
+    "password": "user123"
   },
   "fixturesFolder": false,
   "pluginsFile": false,
